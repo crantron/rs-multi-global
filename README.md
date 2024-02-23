@@ -1,1 +1,0 @@
-# rs-multi-global
