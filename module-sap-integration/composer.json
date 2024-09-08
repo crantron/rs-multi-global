@@ -1,12 +1,12 @@
 {
     "name": "rs/module-sap-integration",
-    "version": "12.12.0",
+    "version": "12.13.0",
     "require": {
         "php": ">=8.1.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-main": "12.12-dev"
+            "dev-main": "12.14-dev"
         }
     },
     "autoload": {
